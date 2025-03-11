@@ -1,0 +1,44 @@
+# Ignore all image files (photographs, gifs)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# Ignore all video files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+*.mpeg
+*.mpg
+*.3gp
+*.m4v
+
+# Ignore all text files
+*.txt
+*.md
+*.log
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+
+# Ignore virtual environment
+/venv/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
